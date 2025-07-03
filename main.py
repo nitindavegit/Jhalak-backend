@@ -23,7 +23,7 @@ app = FastAPI(
 # Allow requests from frontend (localhost or your Vercel/Netlify domain)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://jhalak-cultural-personality.netlify.app/"],
+    allow_origins=["https://jhalak-cultural-personality.netlify.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
