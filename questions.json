@@ -1,0 +1,77 @@
+{
+    "Values & Ethics": [
+      { "id": "Q1", "question": "What matters more to you?", "type": "mcq", "options": ["Personal honor", "Community harmony", "Intellectual growth", "Spiritual balance"] },
+      { "id": "Q2", "question": "I believe individuals should follow strict social roles.", "type": "slider" },
+      { "id": "Q3", "question": "In a conflict, you prefer to:", "type": "mcq", "options": ["Confront directly", "Mediate to find peace", "Logically analyze the root cause", "Let fate guide the outcome"] },
+      { "id": "Q4", "question": "Ritual and tradition add meaning to life.", "type": "slider" },
+      { "id": "Q5", "question": "What's more important?", "type": "mcq", "options": ["Freedom and exploration", "Stability and community", "Knowledge and debate", "Inner peace and balance"] },
+      { "id": "Q6", "question": "I trust intuition over data.", "type": "slider" },
+      { "id": "Q7", "question": "You believe the ideal leader…", "type": "mcq", "options": ["Leads boldly by example", "Governs for the collective good", "Inspires through wisdom", "Reflects thoughtful, contemplative guidance"] },
+      { "id": "Q8", "question": "Seeking harmony with nature is essential.", "type": "slider" },
+      { "id": "Q9", "question": "You admire heroes who are:", "type": "mcq", "options": ["Brave and fearless", "Wise   and diplomatic", "Philosophical thinkers", "Spiritual visionaries"] },
+      { "id": "Q10", "question": "Sacred traditions bolster community morale.", "type": "slider" },
+      { "id": "Q11", "question": "When making decisions, you rely on:", "type": "mcq", "options": ["Gut instinct", "Consensus", "Reason", "Reflection"] },
+      { "id": "Q12", "question": "A structured hierarchy ensures social stability.", "type": "slider" }
+    ],
+  
+    "Social & Community Orientation": [
+      { "id": "Q13", "question": "Your ideal social gathering is:", "type": "mcq", "options": ["Adventurous group trip", "Family/community celebration", "Philosophical discussion", "Quiet meditation retreat"] },
+      { "id": "Q14", "question": "I value close-knit community over individuality.", "type": "slider" },
+      { "id": "Q15", "question": "When you meet strangers, you:", "type": "mcq", "options": ["Jump into conversations boldly", "Build trust carefully", "Observe then engage", "Listen thoughtfully before speaking"] },
+      { "id": "Q16", "question": "Collective identity is crucial to my self-concept.", "type": "slider" },
+      { "id": "Q17", "question": "In a group project, you naturally:", "type": "mcq", "options": ["Take charge", "Unite everyone", "Structure the plan logically", "Ensure everyone feels heard"] },
+      { "id": "Q18", "question": "Spiritual beliefs often guide social norms.", "type": "slider" },
+      { "id": "Q19", "question": "You’d rather live in:", "type": "mcq", "options": ["A nomadic/travel-focused community", "A close village that shares everything", "An intellectual academy or forum", "A peaceful monastery or enclave"] },
+      { "id": "Q20", "question": "Celebrations and rituals strengthen social bonds.", "type": "slider" },
+      { "id": "Q21", "question": "If someone is in crisis, you'd:", "type": "mcq", "options": ["Step in bravely to help", "Rally group support", "Offer thoughtful advice", "Provide emotional and spiritual comfort"] },
+      { "id": "Q22", "question": "Communal traditions matter in my life.", "type": "slider" },
+      { "id": "Q23", "question": "Trust is built through:", "type": "mcq", "options": ["Shared daring experiences", "Shared customs", "Shared knowledge", "Shared spiritual time"] },
+      { "id": "Q24", "question": "Helping others is fulfilling, even when unseen.", "type": "slider" }
+    ],
+  
+    "Work & Innovation": [
+      { "id": "Q25", "question": "You prefer work that:", "type": "mcq", "options": ["Is unpredictable and exciting", "Helps people directly", "Involves deep analysis", "Allows inner growth"] },
+      { "id": "Q26", "question": "I thrive in structured environments.", "type": "slider" },
+      { "id": "Q27", "question": "Innovations are driven by:", "type": "mcq", "options": ["Courageous risk-taking", "Collective needs", "Logical problem-solving", "Inner insight"] },
+      { "id": "Q28", "question": "I avoid unnecessary risks.", "type": "slider" },
+      { "id": "Q29", "question": "You respect mentors who:", "type": "mcq", "options": ["Dared the impossible", "Built community", "Advanced knowledge", "Achieved spiritual clarity"] },
+      { "id": "Q30", "question": "Progress should be measured by practical benefits.", "type": "slider" },
+      { "id": "Q31", "question": "You prefer learning by:", "type": "mcq", "options": ["Doing/experiencing", "Working together", "Studying and reasoning", "Reflective practice/meditation"] },
+      { "id": "Q32", "question": "All progress must preserve tradition.", "type": "slider" },
+      { "id": "Q33", "question": "Breakthroughs come from:", "type": "mcq", "options": ["Bold experimentation", "Shared insights", "Theory and logic", "Quiet reflection"] },
+      { "id": "Q34", "question": "Efficiency matters more than beauty.", "type": "slider" },
+      { "id": "Q35", "question": "Your dream project:", "type": "mcq", "options": ["A daring exploration", "Building a village/community", "Academic or research pursuit", "Spiritual or artistic creation"] },
+      { "id": "Q36", "question": "Failure is more valuable than stagnant comfort.", "type": "slider" }
+    ],
+  
+    "Art, Creativity & Ritual": [
+      { "id": "Q37", "question": "You prefer art that is:", "type": "mcq", "options": ["Bold and expressive", "Rooted in tradition", "Intellectual or symbolic", "Quiet and minimalist"] },
+      { "id": "Q38", "question": "Art is most powerful when it's culturally rooted.", "type": "slider" },
+      { "id": "Q39", "question": "What inspires you?", "type": "mcq", "options": ["Adventure stories", "Folk rituals and customs", "Symbolic myths and codes", "Silent contemplation"] },
+      { "id": "Q40", "question": "Simplicity is the essence of true beauty.", "type": "slider" },
+      { "id": "Q41", "question": "You'd enjoy:", "type": "mcq", "options": ["A live saga performance", "A communal festival", "A philosophical theater", "A Zen garden experience"] },
+      { "id": "Q42", "question": "Creative expression is a communal act.", "type": "slider" },
+      { "id": "Q43", "question": "Which artifact draws you most:", "type": "mcq", "options": ["A warrior’s sword", "A traditional textile", "A philosophical manuscript", "A quiet stone sculpture"] },
+      { "id": "Q44", "question": "Design should follow function.", "type": "slider" },
+      { "id": "Q45", "question": "Creativity must be:", "type": "mcq", "options": ["Bold", "Community-focused", "Thought-provoking", "Spiritually pure"] },
+      { "id": "Q46", "question": "Ritual art shapes collective identity.", "type": "slider" },
+      { "id": "Q47", "question": "Which speaks to you most:", "type": "mcq", "options": ["Epic battle legends", "Communal dance", "Philosophical dialogue", "Meditative calligraphy"] },
+      { "id": "Q48", "question": "I often find meaning in silence.", "type": "slider" }
+    ],
+  
+    "Spirituality & Worldview": [
+      { "id": "Q49", "question": "How do you view life’s purpose?", "type": "mcq", "options": ["Testing one’s courage", "Serving the group", "Seeking understanding", "Finding inner peace"] },
+      { "id": "Q50", "question": "I believe in a higher cosmic order.", "type": "slider" },
+      { "id": "Q51", "question": "You find profound meaning in:", "type": "mcq", "options": ["Heroic struggle", "Festivals and rites", "Philosophical debate", "Meditation and stillness"] },
+      { "id": "Q52", "question": "Symbols hold deep truths.", "type": "slider" },
+      { "id": "Q53", "question": "Ideal afterlife is:", "type": "mcq", "options": ["A heroic hall (like Valhalla)", "Returning to ancestors in community", "Intellectual legacy", "Spiritual liberation"] },
+      { "id": "Q54", "question": "Ceremony elevates human experience.", "type": "slider" },
+      { "id": "Q55", "question": "You feel connected to:", "type": "mcq", "options": ["The wilderness", "Your ancestors", "Universal reason", "Creative emptiness"] },
+      { "id": "Q56", "question": "Fate plays a major role in life.", "type": "slider" },
+      { "id": "Q57", "question": "When overwhelmed, you turn to:", "type": "mcq", "options": ["Physical action", "Group support", "Learning", "Meditation"] },
+      { "id": "Q58", "question": "There is beauty in accepting the unknown.", "type": "slider" },
+      { "id": "Q59", "question": "Sacred spaces resonate with:", "type": "mcq", "options": ["Warrior’s tomb", "Community shrine", "Library or academy", "Zen temple or garden"] },
+      { "id": "Q60", "question": "Inner harmony is the ultimate goal.", "type": "slider" }
+    ]
+  }
+  
