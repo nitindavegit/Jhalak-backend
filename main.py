@@ -161,3 +161,8 @@ async def submit_quiz(submission: QuizSubmission,user = Depends(get_current_user
 @app.get("/")
 async def root():
     return {"message": "API running successfully"}
+
+
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run("main:app", host="0.0.0.0", port=8000)
